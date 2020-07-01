@@ -253,11 +253,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Undertaker\\source\\repos\\TTL_Switcher\\TTL_CHANGER.csproj",
+      "projectUniqueName": "C:\\Users\\Undertaker\\Desktop\\GitHub Projects\\TTL-CHANGER\\TTL_CHANGER\\TTL_CHANGER.csproj",
       "projectName": "TTL_CHANGER",
-      "projectPath": "C:\\Users\\Undertaker\\source\\repos\\TTL_Switcher\\TTL_CHANGER.csproj",
+      "projectPath": "C:\\Users\\Undertaker\\Desktop\\GitHub Projects\\TTL-CHANGER\\TTL_CHANGER\\TTL_CHANGER.csproj",
       "packagesPath": "C:\\Users\\Undertaker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Undertaker\\source\\repos\\TTL_Switcher\\obj\\",
+      "outputPath": "C:\\Users\\Undertaker\\Desktop\\GitHub Projects\\TTL-CHANGER\\TTL_CHANGER\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

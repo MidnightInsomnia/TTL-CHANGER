@@ -11,3 +11,16 @@ C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\TTL_C
 C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\TTL_CHANGER.dll
 C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\TTL_CHANGER.pdb
 C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\TTL_CHANGER.genruntimeconfig.cache
+C:\Users\Undertaker\Desktop\GitHub Projects\TTL-CHANGER\TTL_CHANGER\bin\Debug\netcoreapp3.1\TTL_CHANGER.exe
+C:\Users\Undertaker\Desktop\GitHub Projects\TTL-CHANGER\TTL_CHANGER\bin\Debug\netcoreapp3.1\TTL_CHANGER.deps.json
+C:\Users\Undertaker\Desktop\GitHub Projects\TTL-CHANGER\TTL_CHANGER\bin\Debug\netcoreapp3.1\TTL_CHANGER.runtimeconfig.json
+C:\Users\Undertaker\Desktop\GitHub Projects\TTL-CHANGER\TTL_CHANGER\bin\Debug\netcoreapp3.1\TTL_CHANGER.runtimeconfig.dev.json
+C:\Users\Undertaker\Desktop\GitHub Projects\TTL-CHANGER\TTL_CHANGER\bin\Debug\netcoreapp3.1\TTL_CHANGER.dll
+C:\Users\Undertaker\Desktop\GitHub Projects\TTL-CHANGER\TTL_CHANGER\bin\Debug\netcoreapp3.1\TTL_CHANGER.pdb
+C:\Users\Undertaker\Desktop\GitHub Projects\TTL-CHANGER\TTL_CHANGER\obj\Debug\netcoreapp3.1\TTL_CHANGER.csprojAssemblyReference.cache
+C:\Users\Undertaker\Desktop\GitHub Projects\TTL-CHANGER\TTL_CHANGER\obj\Debug\netcoreapp3.1\TTL_CHANGER.AssemblyInfoInputs.cache
+C:\Users\Undertaker\Desktop\GitHub Projects\TTL-CHANGER\TTL_CHANGER\obj\Debug\netcoreapp3.1\TTL_CHANGER.AssemblyInfo.cs
+C:\Users\Undertaker\Desktop\GitHub Projects\TTL-CHANGER\TTL_CHANGER\obj\Debug\netcoreapp3.1\TTL_CHANGER.csproj.CoreCompileInputs.cache
+C:\Users\Undertaker\Desktop\GitHub Projects\TTL-CHANGER\TTL_CHANGER\obj\Debug\netcoreapp3.1\TTL_CHANGER.dll
+C:\Users\Undertaker\Desktop\GitHub Projects\TTL-CHANGER\TTL_CHANGER\obj\Debug\netcoreapp3.1\TTL_CHANGER.pdb
+C:\Users\Undertaker\Desktop\GitHub Projects\TTL-CHANGER\TTL_CHANGER\obj\Debug\netcoreapp3.1\TTL_CHANGER.genruntimeconfig.cache
