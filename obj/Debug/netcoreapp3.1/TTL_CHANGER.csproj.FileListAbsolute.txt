@@ -1,0 +1,13 @@
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\bin\Debug\netcoreapp3.1\TTL_CHANGER.exe
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\bin\Debug\netcoreapp3.1\TTL_CHANGER.deps.json
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\bin\Debug\netcoreapp3.1\TTL_CHANGER.runtimeconfig.json
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\bin\Debug\netcoreapp3.1\TTL_CHANGER.runtimeconfig.dev.json
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\bin\Debug\netcoreapp3.1\TTL_CHANGER.dll
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\bin\Debug\netcoreapp3.1\TTL_CHANGER.pdb
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\TTL_CHANGER.csprojAssemblyReference.cache
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\TTL_CHANGER.AssemblyInfoInputs.cache
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\TTL_CHANGER.AssemblyInfo.cs
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\TTL_CHANGER.csproj.CoreCompileInputs.cache
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\TTL_CHANGER.dll
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\TTL_CHANGER.pdb
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\TTL_CHANGER.genruntimeconfig.cache

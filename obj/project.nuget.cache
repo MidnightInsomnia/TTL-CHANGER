@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pJeFCM8MIneMVzDxWJlcW6gXMGR/l5ZhGe/7Z2fehkkfy2YO1/xmiH8DpSLmzhQWHfWBb9cn7sIgA3n4olCoJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Undertaker\\source\\repos\\TTL_Switcher\\TTL_CHANGER.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Undertaker\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Undertaker\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Undertaker\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Undertaker\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Undertaker\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

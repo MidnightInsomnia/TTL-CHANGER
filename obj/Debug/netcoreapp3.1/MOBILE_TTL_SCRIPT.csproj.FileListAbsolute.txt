@@ -1,0 +1,13 @@
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\bin\Debug\netcoreapp3.1\MOBILE_TTL_SCRIPT.exe
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\MOBILE_TTL_SCRIPT.csprojAssemblyReference.cache
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\MOBILE_TTL_SCRIPT.AssemblyInfoInputs.cache
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\MOBILE_TTL_SCRIPT.AssemblyInfo.cs
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\bin\Debug\netcoreapp3.1\MOBILE_TTL_SCRIPT.deps.json
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\bin\Debug\netcoreapp3.1\MOBILE_TTL_SCRIPT.runtimeconfig.json
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\bin\Debug\netcoreapp3.1\MOBILE_TTL_SCRIPT.runtimeconfig.dev.json
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\bin\Debug\netcoreapp3.1\MOBILE_TTL_SCRIPT.dll
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\bin\Debug\netcoreapp3.1\MOBILE_TTL_SCRIPT.pdb
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\MOBILE_TTL_SCRIPT.csproj.CoreCompileInputs.cache
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\MOBILE_TTL_SCRIPT.dll
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\MOBILE_TTL_SCRIPT.pdb
+C:\Users\Undertaker\source\repos\MOBILE_TTL_SCRIPT\obj\Debug\netcoreapp3.1\MOBILE_TTL_SCRIPT.genruntimeconfig.cache
