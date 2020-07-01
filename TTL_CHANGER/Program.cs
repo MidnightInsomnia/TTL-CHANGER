@@ -16,8 +16,13 @@ namespace MOBILE_TTL_SCRIPT
             cmdText.PrintCommand("1", "SWITCH TTL TO 64 (MOBILE VALUE)");
             cmdText.PrintCommand("2", "SWITCH TTL TO 128(PC DEFAULT TTL)");
             cmdText.PrintCommand("3", "EXIT");
+            //На заметку: параметр true не позволяет печатать текст во время регистрации нажатий
+            ConsoleKeyInfo answer = Console.ReadKey(true);
 
-            ConsoleKeyInfo answer = Console.ReadKey();
+            while(answer.KeyChar != 49 && answer.KeyChar != 50 && answer.KeyChar != 51)
+            {
+                answer = Console.ReadKey(true);
+            }
 
             //1
             if (answer.KeyChar == 49) 
@@ -43,12 +48,12 @@ namespace MOBILE_TTL_SCRIPT
         public static void RebootRequirement()
         {
             cmdText.PrintRebootRequirement();
-            ConsoleKeyInfo reboot = Console.ReadKey();
+            ConsoleKeyInfo reboot = Console.ReadKey(true);
                         
             //ConsoleKey.Y
             while ((reboot.Key != ConsoleKey.Y) && (reboot.Key != ConsoleKey.N)) 
             {                
-                reboot = Console.ReadKey();
+                reboot = Console.ReadKey(true);
             }                   
 
             if (reboot.Key == ConsoleKey.Y)
